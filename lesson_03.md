@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # デザインパターン入門 第三回 Proxy パターンと Decorator パターン
 
 今回はデザインパターンから、 Proxy パターンと Decorator パターンを習得しましょう！
