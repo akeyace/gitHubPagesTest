@@ -1,6 +1,6 @@
 ## シーシャ UP 勉強会
-### By オレオレ勉強会
-### Akio Fujii
+### @オレオレ勉強会
+### By Akio Fujii
 
 ---
 
@@ -59,11 +59,6 @@ C# 読書会を聞いていたら、作りたくなっちゃいました♪
 ---
 
 ![emirates-shisha-lounge-3-620x330](https://user-images.githubusercontent.com/1944039/30207211-b37dcd5a-94c9-11e7-8837-6429f0048ee3.jpg)
-
----
-
-![maxresdefault](https://user-images.githubusercontent.com/1944039/30207206-adf6376e-94c9-11e7-9223-fed469bebed3.jpg)
-![emirates-shisha-lounge-3-620x330](https://user-images.githubusercontent.com/1944039/30207208-b0bee432-94c9-11e7-8952-a0f45fd8b7fe.jpg)
 
 ---
 
